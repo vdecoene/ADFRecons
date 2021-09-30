@@ -1,0 +1,9 @@
+# This is the status file. DO NOT EDIT.
+Aires_Host='ccwsge0353.in2p3.fr'
+Aires_UserName='tueros'
+Aires_Version='19.04.00'
+Aires_TaskName='Stshp_Iron_3.98_87.1_0.0_1'
+Aires_Msg='EndOfTask'
+Aires_StopRc=0
+Aires_Trial=0
+Aires_status='         1         1         0'

@@ -1,0 +1,41 @@
+//===============================================
+// Shared definitions: SCALAR = [float/double]
+//===============================================
+
+#ifndef SCALAR
+  #define SCALAR double
+#endif
+
+#ifndef __SCALAR_XF__
+  #define __SCALAR_XF__ "lf"
+#endif
+
+#ifndef __SCALAR_XE__
+  #define __SCALAR_XE__ "le"
+#endif
+
+
+//===============================================
+// Shared definitions: concatenations
+//===============================================
+
+#ifndef _CONCAT
+  #define _CONCAT( X, Y ) X##Y
+#endif
+
+#ifndef CONCAT
+  #define CONCAT( X, Y ) _CONCAT( X, Y )
+#endif
+
+
+//===============================================
+// PORT_i specifics
+//===============================================
+
+#ifndef PORT_N_MAX_DIM
+  #define PORT_N_MAX_DIM 200
+#endif
+
+#ifndef PORT_PREFIX
+  #define PORT_PREFIX d
+#endif

@@ -1,0 +1,5 @@
+# Ignore binaries
+bin
+port_i/example
+*.o
+*.a

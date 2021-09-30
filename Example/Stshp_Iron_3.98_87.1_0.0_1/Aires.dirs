@@ -1,0 +1,9 @@
+# This is the AIRES dirs file. DO NOT EDIT.
+Aires_DHost='ccwsge0353.in2p3.fr'
+Aires_DUserName='tueros'
+Aires_DTaskName='Stshp_Iron_3.98_87.1_0.0_1'
+Aires_DRandomfn='__Aires1101_7230'
+Aires_DOutput=
+Aires_DGlobal=
+Aires_DExport=
+Aires_DScratch='/scratch/9080394.1.long/'
